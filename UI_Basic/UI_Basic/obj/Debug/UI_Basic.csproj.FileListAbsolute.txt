@@ -1,0 +1,13 @@
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.csprojResolveAssemblyReference.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.Form1.resources
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.Properties.Resources.resources
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.csproj.GenerateResource.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.csproj.CoreCompileInputs.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\bin\Debug\UI_Basic.exe.config
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\bin\Debug\UI_Basic.exe
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\bin\Debug\UI_Basic.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.exe
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Basic\UI_Basic\obj\Debug\UI_Basic.csproj.CopyComplete

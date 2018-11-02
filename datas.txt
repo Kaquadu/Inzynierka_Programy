@@ -1,0 +1,7 @@
+https://docs.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?redirectedfrom=MSDN&view=netframework-4.7.2
+
+https://docs.microsoft.com/en-us/dotnet/framework/winforms/controls/add-and-remove-items-from-a-wf-combobox
+
+https://www.mathworks.com/help/matlab/matlab_external/baudrate.html
+
+https://www.youtube.com/watch?v=BGb5LIyMmvM
