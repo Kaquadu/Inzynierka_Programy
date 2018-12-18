@@ -1,0 +1,6 @@
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Pliki skanera\ExampleCS\SCIP_library\bin\Debug\SCIP_library.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Pliki skanera\ExampleCS\SCIP_library\bin\Debug\SCIP_library.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Pliki skanera\ExampleCS\SCIP_library\obj\Debug\SCIP_library.csprojResolveAssemblyReference.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Pliki skanera\ExampleCS\SCIP_library\obj\Debug\SCIP_library.csproj.CoreCompileInputs.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Pliki skanera\ExampleCS\SCIP_library\obj\Debug\SCIP_library.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Pliki skanera\ExampleCS\SCIP_library\obj\Debug\SCIP_library.pdb

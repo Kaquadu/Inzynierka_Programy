@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 using System.Numerics;
+using System.Threading;
+using System.Collections;
+using System.Globalization;
 
 namespace UI_Basic
 {
@@ -42,10 +45,7 @@ namespace UI_Basic
                 button_StartStopScanning.Text = "Stop Scanning";
                 label_ScanningInProgress.Text = "Scanning";
 
-                if (distanceMeter.MakeScan())
-                    Console.WriteLine("OK.");
-                else
-                    Console.WriteLine("Not OK.");
+                distanceMeter.MakeScan();
 
                 if (distanceMeter.CloseConnection())
                 {
@@ -88,7 +88,7 @@ namespace UI_Basic
             Console.WriteLine("Start parsing");
 
             List<string> string_lenghts = new List<string>();
-            StreamReader sr = new StreamReader(textBox_Filename.Text);
+            StreamReader sr = new StreamReader(textBox_XYZimport.Text);
             string line;
             while ((line = sr.ReadLine()) != null) { Console.WriteLine(line); string_lenghts = line.Split(',', ' ', '\n').ToList(); }
             sr.Close();
@@ -111,10 +111,12 @@ namespace UI_Basic
 
             List<Vector3> vec3list = parser.ParseDataFromAboveScan(int_lengths, 682, 5.0f);
 
-            StreamWriter sw = new StreamWriter(textBox_XYZimport.Text, true);
+            Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
+
+            StreamWriter sw = new StreamWriter(textBox_XYZexport.Text, false);
             foreach(var vec3 in vec3list)
             {
-                sw.WriteLine(vec3.X + " " + vec3.Y + " " + vec3.Z + "\n");
+                sw.WriteLine(vec3.X + " " + vec3.Y + " " + vec3.Z);
             }
             sw.Close();
         }

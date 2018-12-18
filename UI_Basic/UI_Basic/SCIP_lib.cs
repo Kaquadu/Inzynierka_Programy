@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace UI_Basic
+namespace UI_BasicNu
 {
     public class SCIP_Writer
     {

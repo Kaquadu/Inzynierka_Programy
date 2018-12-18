@@ -10,7 +10,6 @@ namespace UI_Basic
     class XYZ_Parser
     {
         public List<Measurement> measurements = new List<Measurement>();
-        public List<Vector3> vec3list = new List<Vector3>();
 
 
         public XYZ_Parser()
@@ -23,19 +22,23 @@ namespace UI_Basic
 
             CreateListOfMeasurements(lengths_list, range);
 
-            float angleStep = 360.0f / (float)range;
-            float currentAngle = -120.0f;
+            List<Vector3> vec3list = new List<Vector3>();
+
+            float angleStep = 240.0f / (float)range;
 
             foreach(var mes in measurements)
             {
+                float currentAngle = -120.0f;
                 for (int i = 0; i < mes.mesments.Count(); i++)
                 {
                     Vector3 vec3 = new Vector3();
-                    vec3.X = mes.mesments[i] * (float)Math.Sin(currentAngle);
-                    vec3.Y = movementStep * mes.i;
-                    vec3.Z = mes.mesments[i] * (float)Math.Cos(currentAngle);
+                    vec3.X = mes.mesments[i] * (float)Math.Sin(currentAngle * Math.PI / 180.0f);
+                    vec3.Y = movementStep * (mes.i-1);
+                    vec3.Z = mes.mesments[i] * (float)Math.Cos(currentAngle * Math.PI / 180.0f);
 
                     vec3list.Add(vec3);
+
+                    currentAngle += angleStep;
                 }
             }
 
@@ -46,13 +49,13 @@ namespace UI_Basic
         {
             int divisor = lengths_list.Count() / range;
 
-            for (int i = 1; i <= divisor; i++)
+            for (int i = 0; i < divisor; i++)
             {
                 List<float> mesments = new List<float>();
 
                 for (int j = 0; j < range; j++)
                 {
-                    mesments.Add((float)lengths_list[j * i]);
+                    mesments.Add((float)lengths_list[j + range * i]);
                 }
 
                 measurements.Add(new Measurement(i, mesments));
