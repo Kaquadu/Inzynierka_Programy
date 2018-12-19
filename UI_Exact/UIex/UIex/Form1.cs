@@ -323,8 +323,8 @@ namespace UIex
                     if (msg == "(Ready)")
                     {
                         Console.WriteLine("Succesfuly received (Ready) from robot");
-                        if (communicator.SendMessageToRobot(textBox__ScanAccuracy.Text))
-                            OutputLogWrite("Succesfuly sent " + textBox__ScanAccuracy.Text + " to robot");
+                        if (communicator.SendMessageToRobot("+" + textBox__ScanAccuracy.Text + " end"))
+                            OutputLogWrite("Succesfuly sent " + "+" + textBox__ScanAccuracy.Text + " end" + " to robot");
                         else OutputLogWrite("Can't send message to robot, exception: \n" + communicator.robotClient.excpt);
                     }
                     else OutputLogWrite("Robot sent: " + msg);
