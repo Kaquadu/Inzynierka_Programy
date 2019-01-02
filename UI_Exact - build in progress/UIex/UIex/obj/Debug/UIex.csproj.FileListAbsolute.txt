@@ -1,0 +1,121 @@
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\UIex.exe.config
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\UIex.exe
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\UIex.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.csprojResolveAssemblyReference.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.Form1.resources
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.Properties.Resources.resources
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.csproj.GenerateResource.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.csproj.CoreCompileInputs.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.exe
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.csproj.CopyComplete
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.GLControl.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.GLControl.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.SceneGraph.xml
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\UIex.exe.config
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.exe
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.pdb
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\UIex.exe
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\UIex.pdb
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.dll
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.GLControl.dll
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.dll
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.SceneGraph.dll
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\System.Numerics.Vectors.dll
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.pdb
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.xml
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.GLControl.pdb
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\OpenTK.GLControl.xml
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.pdb
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.xml
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.SceneGraph.pdb
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\SharpGL.SceneGraph.xml
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\bin\Debug\System.Numerics.Vectors.xml
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.csprojResolveAssemblyReference.cache
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.Form1.resources
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.Properties.Resources.resources
+F:\Inzynierka\Programy\UI_Exact\UIex\UIex\obj\Debug\UIex.csproj.GenerateResource.Cache
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\UIex.exe.config
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.exe
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.pdb
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\UIex.exe
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\UIex.pdb
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.dll
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.GLControl.dll
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.dll
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.SceneGraph.dll
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\System.Numerics.Vectors.dll
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.pdb
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.xml
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.GLControl.pdb
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.GLControl.xml
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.pdb
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.xml
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.SceneGraph.pdb
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.SceneGraph.xml
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\System.Numerics.Vectors.xml
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.csprojResolveAssemblyReference.cache
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.Form1.resources
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.Properties.Resources.resources
+F:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.csproj.GenerateResource.Cache
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\UIex.exe.config
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\UIex.exe
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\UIex.pdb
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.dll
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.GLControl.dll
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.dll
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.SceneGraph.dll
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\System.Numerics.Vectors.dll
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.pdb
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.xml
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.GLControl.pdb
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\OpenTK.GLControl.xml
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.pdb
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.xml
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.SceneGraph.pdb
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\SharpGL.SceneGraph.xml
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\bin\Debug\System.Numerics.Vectors.xml
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.csprojResolveAssemblyReference.cache
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.Form1.resources
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.Properties.Resources.resources
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.csproj.GenerateResource.cache
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.csproj.CoreCompileInputs.cache
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.csproj.CopyComplete
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.exe
+G:\Inzynierka\Programy\UI_Exact - Kopia\UIex\UIex\obj\Debug\UIex.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\UIex.exe.config
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\UIex.exe
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\UIex.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\OpenTK.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\OpenTK.GLControl.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\SharpGL.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\OpenTK.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\OpenTK.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\OpenTK.GLControl.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\SharpGL.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\SharpGL.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\SharpGL.SceneGraph.pdb
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\SharpGL.SceneGraph.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.csprojResolveAssemblyReference.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.Form1.resources
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.Properties.Resources.resources
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.csproj.GenerateResource.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.csproj.CoreCompileInputs.cache
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.csproj.CopyComplete
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.exe
+C:\Users\kkowa\Desktop\studbaza\Inzynierka\Inzynierka_Programy\UI_Exact - build in progress\UIex\UIex\obj\Debug\UIex.pdb
